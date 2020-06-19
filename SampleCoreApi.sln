@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{CF5A81
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Common", "API.Common\API.Common.csproj", "{D06A1C7D-CA94-4F9D-84A2-16A048E8EAEF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{5A527CAB-5BE7-41C8-8E64-76C9963CA85B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract", "Abstract", "{8F86A2BF-2859-478D-A56D-D8F524E636F7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Domain", "1 Domain", "{5A527CAB-5BE7-41C8-8E64-76C9963CA85B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleEntity", "Entity\SampleEntity.csproj", "{6E49A710-D319-4A7B-B78C-E38EA241EDC8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleEntityInterface", "SampleInterface\SampleEntityInterface.csproj", "{D190382E-6D38-435F-A66C-D3423BFB6268}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repo", "Repo", "{C10280B1-1556-4074-8194-3CA4AC764FB8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Repo", "2 Repo", "{C10280B1-1556-4074-8194-3CA4AC764FB8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleRepository", "Repository\SampleRepository.csproj", "{28ED8468-B31D-4C92-99C6-38D1E4E501AA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleIRepository", "IRepository\SampleIRepository.csproj", "{6704AAD0-AC37-4A3C-975B-2A23814045CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 UnitTest", "0 UnitTest", "{C6E9DDF7-3F25-4D08-985B-EDBED1F4628E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
