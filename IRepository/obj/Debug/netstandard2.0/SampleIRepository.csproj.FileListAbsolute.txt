@@ -1,0 +1,12 @@
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\bin\Debug\netstandard2.0\SampleIRepository.deps.json
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\bin\Debug\netstandard2.0\SampleIRepository.dll
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\bin\Debug\netstandard2.0\SampleIRepository.pdb
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\bin\Debug\netstandard2.0\API.Common.dll
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\bin\Debug\netstandard2.0\API.Common.pdb
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.csprojAssemblyReference.cache
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.AssemblyInfoInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.AssemblyInfo.cs
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.csproj.CoreCompileInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.csproj.CopyComplete
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.dll
+C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\IRepository\obj\Debug\netstandard2.0\SampleIRepository.pdb
