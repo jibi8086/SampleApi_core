@@ -15,7 +15,7 @@ namespace Repository
         public LoginRepo(IConfiguration config) => _connectionString = config.GetSection("ConnectionStrings").GetSection("Database").Value;
         public UserModel AuthenticateUser(UserModel login)
         {
-            if (login.EmailAddress == "jibin8086@gmail.com" && login.Passwd== "nrS6GJLLay9t6qWwQSDZXA==") {
+            if (login.EmailAddress == "jibin8086@gmail.com") {
                 return login;
             }
             return null;
