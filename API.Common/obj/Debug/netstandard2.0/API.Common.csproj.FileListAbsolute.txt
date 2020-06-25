@@ -24,3 +24,12 @@ C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\API.Common\ob
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\API.Common\obj\Debug\netstandard2.0\API.Common.csproj.CoreCompileInputs.cache
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\API.Common\obj\Debug\netstandard2.0\API.Common.dll
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\API.Common\obj\Debug\netstandard2.0\API.Common.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\bin\Debug\netstandard2.0\API.Common.deps.json
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\bin\Debug\netstandard2.0\API.Common.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\bin\Debug\netstandard2.0\API.Common.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\obj\Debug\netstandard2.0\API.Common.AssemblyInfoInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\obj\Debug\netstandard2.0\API.Common.AssemblyInfo.cs
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\obj\Debug\netstandard2.0\API.Common.csproj.CoreCompileInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\obj\Debug\netstandard2.0\API.Common.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\obj\Debug\netstandard2.0\API.Common.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\API.Common\obj\Debug\netstandard2.0\API.Common.csprojAssemblyReference.cache

@@ -12,3 +12,17 @@ C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\Repository\ob
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\Repository\obj\Debug\netstandard2.0\SampleRepository.csproj.CopyComplete
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\Repository\obj\Debug\netstandard2.0\SampleRepository.dll
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\Repository\obj\Debug\netstandard2.0\SampleRepository.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\SampleRepository.deps.json
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\SampleRepository.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\SampleRepository.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\API.Common.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\SampleIRepository.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\API.Common.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\bin\Debug\netstandard2.0\SampleIRepository.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.csprojAssemblyReference.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.AssemblyInfoInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.AssemblyInfo.cs
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.csproj.CoreCompileInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.csproj.CopyComplete
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\Repository\obj\Debug\netstandard2.0\SampleRepository.pdb

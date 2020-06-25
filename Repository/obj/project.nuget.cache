@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "poDpdcSLvLOZfhKwuk2eGblXtHHN2rpq/NqU7NE1eL3sFl1bR8qgtJ//x1xa2jsGIBePDfC0XzbnaKQA7Yb0fQ==",
+  "dgSpecHash": "xsJgpL1qeX2hQ/DAnCy+TFG4DDTfbNC49dWDbYTxV0LLpP8KABTIZBRJcz+bbBmqxIM16LCW+PoTKmNDtJQR8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\Repository\\SampleRepository.csproj",
+  "projectFilePath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\Repository\\SampleRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jibin\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
     "C:\\Users\\Jibin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",

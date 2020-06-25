@@ -8,5 +8,6 @@ namespace SampleInterface
     public interface ILoginEntity
     {
         UserModel AuthenticateUser(UserModel login);
+        bool TestLogin(string userName, int password);
     }
 }

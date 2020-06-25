@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\Entity\\SampleEntity.csproj",
+      "projectUniqueName": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\Entity\\SampleEntity.csproj",
       "projectName": "SampleEntity",
-      "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\Entity\\SampleEntity.csproj",
+      "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\Entity\\SampleEntity.csproj",
       "packagesPath": "C:\\Users\\Jibin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\Entity\\obj\\",
+      "outputPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1037,17 +1037,17 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\API.Common\\API.Common.csproj": {
-              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\API.Common\\API.Common.csproj"
+            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\API.Common\\API.Common.csproj": {
+              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\API.Common\\API.Common.csproj"
             },
-            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\IRepository\\SampleIRepository.csproj": {
-              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\IRepository\\SampleIRepository.csproj"
+            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\IRepository\\SampleIRepository.csproj": {
+              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\IRepository\\SampleIRepository.csproj"
             },
-            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\Repository\\SampleRepository.csproj": {
-              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\Repository\\SampleRepository.csproj"
+            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\Repository\\SampleRepository.csproj": {
+              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\Repository\\SampleRepository.csproj"
             },
-            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\SampleInterface\\SampleEntityInterface.csproj": {
-              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\SampleInterface\\SampleEntityInterface.csproj"
+            "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\SampleInterface\\SampleEntityInterface.csproj": {
+              "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\SampleInterface\\SampleEntityInterface.csproj"
             }
           }
         }

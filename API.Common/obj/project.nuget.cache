@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qA3KDbRyZ4kOHXdORU0BOhRd3A6x/ctvw00sQW4X2jA4artOBuUSgL9xgHCdP4JqpZsBiJ6yMuJ9pzZX2WNdA==",
+  "dgSpecHash": "6kSy1atRLiWPyb/Qknvis2SyiixpalzDYDnpE8l+rm+bCslIuIjJA8UXQBqRahC+xMcy9qe9QplxluFFq32fbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\API.Common\\API.Common.csproj",
+  "projectFilePath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\API.Common\\API.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jibin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Jibin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

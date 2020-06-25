@@ -10,3 +10,15 @@ C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\SampleInterfa
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.csproj.CopyComplete
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.dll
 C:\Users\Jibin\Documents\DotNetTraining\DotNetCoreSampleAPI-master\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\bin\Debug\netstandard2.0\SampleEntityInterface.deps.json
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\bin\Debug\netstandard2.0\SampleEntityInterface.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\bin\Debug\netstandard2.0\SampleEntityInterface.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\bin\Debug\netstandard2.0\API.Common.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\bin\Debug\netstandard2.0\API.Common.pdb
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.csprojAssemblyReference.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.AssemblyInfoInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.AssemblyInfo.cs
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.csproj.CopyComplete
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.dll
+C:\Users\Jibin\Documents\DotNetTraining\SampleAPI_Core\CoreApi_DI\SampleInterface\obj\Debug\netstandard2.0\SampleEntityInterface.pdb

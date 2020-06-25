@@ -857,11 +857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\API.Common\\API.Common.csproj",
+      "projectUniqueName": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\API.Common\\API.Common.csproj",
       "projectName": "API.Common",
-      "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\API.Common\\API.Common.csproj",
+      "projectPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\API.Common\\API.Common.csproj",
       "packagesPath": "C:\\Users\\Jibin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\API.Common\\obj\\",
+      "outputPath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\API.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

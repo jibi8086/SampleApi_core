@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHETcA/JjXg/Z1ScuRM2TQsEA0EeBYcEY+l/RxJUzCC+vIKezp4NDt3Jpc16xLetmsFzoD8t+zc7iTfZmfKtLg==",
+  "dgSpecHash": "lmSg2KOILLDNrMMag7NvcjfOaxKa28WP1pKZYDG3yJKdozY+0RcqZcHMMf+WKIRfdYIhUOYat9crNygfzAsz1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\DotNetCoreSampleAPI-master\\SampleInterface\\SampleEntityInterface.csproj",
+  "projectFilePath": "C:\\Users\\Jibin\\Documents\\DotNetTraining\\SampleAPI_Core\\CoreApi_DI\\SampleInterface\\SampleEntityInterface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jibin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Jibin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

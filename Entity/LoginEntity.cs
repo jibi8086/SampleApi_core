@@ -30,5 +30,17 @@ namespace SampleEntity
             //return user;
         }
 
+        public bool TestLogin(string userName,int password) {
+            if (userName == "Test" && password >0)
+            {
+                return true;
+
+            }
+            else {
+                return false;
+            }
+        
+        }
+
     }
 }
